@@ -1,1 +1,1 @@
-# Exerc-cios-Java-B-sico
+Esse repositório contém os exercícios de Java Básico
